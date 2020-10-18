@@ -1,1 +1,3 @@
-# discus2
+# discus2.com
+
+Cloud-Based Discourse Hosting
