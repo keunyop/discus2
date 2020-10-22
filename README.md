@@ -2,4 +2,4 @@
 
 Cloud-Based Discourse Hosting
 
-which SSG to use?
+Homepage Feature Component (https://meta.discourse.org/t/homepage-feature-component/144264)
