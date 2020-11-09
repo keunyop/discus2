@@ -1,6 +1,6 @@
 # discus2.com
 
-Cloud-Based Managed Forum Hosting
+Cloud-Based Managed Forum Hosting (www.discus2.com)
 
 Discourse (https://www.discourse.org/)
 
