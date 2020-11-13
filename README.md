@@ -1,9 +1,7 @@
-# discus2.com
+# try.discus2.com
 
-Cloud-Based Managed Forum Hosting (www.discus2.com)
+Cloud-Based Managed Forum Hosting
 
-Discourse (https://www.discourse.org/)
+Discourse(https://www.discourse.org/) 한국어 버전 체험
 
-Discourse 한국어 버전 체험
-
-https://forum.discus2.com
+https://try.discus2.com
